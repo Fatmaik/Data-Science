@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Sep 09 22:48:27 BRT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0165-c12a-6876-00000240d2c0 
+on database directory /home/dsim/Área de Trabalho/DionathanCordova/Data-Science/Pyspark/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@41007616 
+Loaded from file:/opt/spark/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=/home/dsim/Área de Trabalho/DionathanCordova/Data-Science/Pyspark
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-33-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
